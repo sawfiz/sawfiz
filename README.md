@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sawfiz
 - 👀 I’m interested in ...
-- 🌱 I'm currently self-studying [The Odin Project](https://theodinproject.com/) wed development courses
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently self-studying [The Odin Project](https://theodinproject.com/) web development courses
+- 💞️ I’m looking to collaborate on practical python
 - 📫 How to reach me ...
 
 <!---
